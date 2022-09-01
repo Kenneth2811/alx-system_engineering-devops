@@ -1,0 +1,1 @@
+My first scripting assingmnet in shell 
