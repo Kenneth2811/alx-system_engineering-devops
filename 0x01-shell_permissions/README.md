@@ -11,3 +11,4 @@ script that sets the permission to the file hello as follows:Owner: no permissio
 Group: no permission at all
 
 Other users: all the permissions
+a script that sets the mode of the file hello the same as olleh’s mode.
